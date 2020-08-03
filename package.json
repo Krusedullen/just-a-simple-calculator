@@ -20,5 +20,8 @@
   "bugs": {
     "url": "https://github.com/Krusedullen/just-a-simple-calculator/issues"
   },
-  "homepage": "https://github.com/Krusedullen/just-a-simple-calculator#readme"
+  "homepage": "https://github.com/Krusedullen/just-a-simple-calculator#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
 }
