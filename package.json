@@ -1,0 +1,24 @@
+{
+  "name": "calculator",
+  "version": "1.0.0",
+  "description": "My first attempt at making a calculator web app",
+  "main": "calculator.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Krusedullen/just-a-simple-calculator.git"
+  },
+  "keywords": [
+    "calculator",
+    "web",
+    "app"
+  ],
+  "author": "Therese",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Krusedullen/just-a-simple-calculator/issues"
+  },
+  "homepage": "https://github.com/Krusedullen/just-a-simple-calculator#readme"
+}
