@@ -15,4 +15,8 @@ app.post("/", function(req, res){
   res.send("The result of the calculation is: " + result);
 })
 
+app.get("/bmicalculator", function(req, res){
+  res.sendFile(__dirname + "/bmiCalculator.html");
+});
+
 app.listen(3000);
