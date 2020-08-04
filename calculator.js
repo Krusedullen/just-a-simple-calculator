@@ -30,9 +30,3 @@ app.post("/bmicalculator", function(req, res){
 });
 
 app.listen(3000);
-
-
-function calculateBmi(num1, num2){
-  var result = num1 + num2
-  $(".result").text("Your BMI is: " + result);
-}
